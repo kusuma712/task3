@@ -1,0 +1,12 @@
+:root{ --bs-primary: #1f6feb; --card-radius: 12px; }
+
+body { background: #f8fafc; color: #0f172a; }
+
+.card { border-radius: var(--card-radius); box-shadow: 0 6px 20px rgba(15,23,42,0.06); }
+
+.page-heading h3 { color: var(--bs-primary); font-weight:700; }
+
+.summary-value { font-size: 1.5rem; font-weight:700; }
+.summary-label { color: #6b7280; font-size:0.85rem; margin-bottom:6px; }
+
+.alerts-list .alert { margin-bottom:8px; border-radius:8px; }

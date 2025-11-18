@@ -1,0 +1,23 @@
+{
+  "summary": {
+    "totalUsers": 12450,
+    "activeToday": 243,
+    "newSignups": 18,
+    "revenueToday": 1540.75
+  },
+  "chart": {
+    "labels": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+    "values": [120, 200, 150, 300, 250, 220, 270]
+  },
+  "recentUsers": [
+    {"id": "U1001", "name": "Asha R.", "email": "asha@example.com", "role": "Student", "status": "Active", "joined": "2025-11-12"},
+    {"id": "U1002", "name": "Rahul K.", "email": "rahul@example.com", "role": "Recruiter", "status": "Pending", "joined": "2025-11-15"},
+    {"id": "U1003", "name": "Priya S.", "email": "priya@example.com", "role": "Admin", "status": "Active", "joined": "2025-11-10"},
+    {"id": "U1004", "name": "Vikram P.", "email": "vikram@example.com", "role": "Student", "status": "Active", "joined": "2025-11-09"},
+    {"id": "U1005", "name": "Nisha M.", "email": "nisha@example.com", "role": "Student", "status": "Inactive", "joined": "2025-11-01"}
+  ],
+  "alerts": [
+    {"type": "warning", "message": "Server CPU at 82%", "time": "2025-11-18T08:20:00Z"},
+    {"type": "info", "message": "New release deployed: v1.4.1", "time": "2025-11-18T06:10:00Z"}
+  ]
+}
